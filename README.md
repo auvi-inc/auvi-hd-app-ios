@@ -1,1 +1,1 @@
-# auvi-hd-app-ios
+# auvi-hp-app-ios
